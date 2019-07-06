@@ -16,7 +16,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 300,
-      "price": 87,
+      "price": 87
     },
     {
       "id": 6,
@@ -25,7 +25,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 275,
-      "price": 115,
+      "price": 115
     },
     {
       "id": 7,
@@ -34,7 +34,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 390,
-      "price": 115,
+      "price": 115
     },
     {
       "id": 10,
@@ -43,7 +43,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 190,
-      "price": 80,
+      "price": 80
     },
     {
       "id": 11,
@@ -52,7 +52,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 200,
-      "price": 75,
+      "price": 75
     },
     {
       "id": 23,
@@ -61,7 +61,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 280,
-      "price": 130,
+      "price": 130
     },
     {
       "id": 24,
@@ -70,7 +70,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 200,
-      "price": 130,
+      "price": 130
     },
     {
       "id": 33,
@@ -79,7 +79,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 230,
-      "price": 88,
+      "price": 88
     },
     {
       "id": 34,
@@ -88,7 +88,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 210,
-      "price": 88,
+      "price": 88
     },
     {
       "id": 44,
@@ -97,7 +97,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 600,
-      "price": 130,
+      "price": 130
     },
     {
       "id": 45,
@@ -106,7 +106,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 450,
-      "price": 170,
+      "price": 170
     },
     {
       "id": 50,
@@ -115,7 +115,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 50,
-      "price": 20,
+      "price": 20
     },
     {
       "id": 51,
@@ -124,7 +124,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 100,
-      "price": 15,
+      "price": 15
     },
     {
       "id": 53,
@@ -133,7 +133,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 400,
-      "price": 180,
+      "price": 180
     },
     {
       "id": 54,
@@ -142,7 +142,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 400,
-      "price": 175,
+      "price": 175
     },
     {
       "id": 67,
@@ -151,7 +151,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 300,
-      "price": 130,
+      "price": 130
     },
     {
       "id": 68,
@@ -160,7 +160,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 300,
-      "price": 115,
+      "price": 115
     },
     {
       "id": 72,
@@ -169,7 +169,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 300,
-      "price": 130,
+      "price": 130
     },
     {
       "id": 73,
@@ -178,7 +178,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 400,
-      "price": 150,
+      "price": 150
     }
   ]
 }
