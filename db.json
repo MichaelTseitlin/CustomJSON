@@ -1,52 +1,184 @@
 {
   "items": [
     {
-      "category": "entrees",
-      "description": "Seasoned meatballs on top of freshly-made spaghetti. Served with a robust tomato sauce.",
-      "price": 9.0,
-      "image_url": "http://localhost:8090/images/1.png",
       "id": 1,
-      "name": "Spaghetti and Meatballs"
+      "name": "Shakshuka",
+      "category": "breakfast"
+      "image_url": ""
+      "description": "description"
+      "outlet": 350 
+      "price": 65
     },
     {
-      "category": "entrees",
-      "description": "Tomato sauce, fresh mozzarella, basil, and extra-virgin olive oil.",
-      "price": 10.0,
-      "image_url": "http://localhost:8090/images/2.png",
       "id": 2,
-      "name": "Margherita Pizza"
+      "name": "Omlette with shrips",
+      "category": "breakfast"
+      "image_url": ""
+      "description": "description"
+      "outlet": 300
+      "price": 87
     },
     {
-      "category": "entrees",
-      "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
-      "price": 12.75,
-      "image_url": "http://localhost:8090/images/3.png",
-      "id": 3,
-      "name": "Grilled Steelhead Trout"
-    },
-    {
-      "category": "appetizers",
-      "description": "House-made ravioli filled with pine nuts, parmesan, ham, and mushrooms. Served over tomato sauce.",
-      "price": 8.0,
-      "image_url": "http://localhost:8090/images/4.png",
-      "id": 4,
-      "name": "Ham and mushroom ravioli"
-    },
-    {
-      "category": "soups",
-      "description": "Chicken simmered alongside yellow onions, carrots, celery, and bay leaves.",
-      "price": 3.5,
-      "image_url": "http://localhost:8090/images/5.png",
-      "id": 5,
-      "name": "Chicken Noodle Soup"
-    },
-    {
-      "category": "salads",
-      "description": "Garlic, red onions, tomatoes, mushrooms, and olives on top of romaine lettuce.",
-      "price": 5.0,
-      "image_url": "http://localhost:8090/images/6.png",
       "id": 6,
-      "name": "Italian Salad"
+      "name": "Burger with shrimps",
+      "category": "burger"
+      "image_url": ""
+      "description": "description"
+      "outlet": 275
+      "price": 115
+    },
+    {
+      "id": 7,
+      "name": "Turkey burger",
+      "category": "burger"
+      "image_url": ""
+      "description": "description"
+      "outlet": 390
+      "price": 115
+    },
+    {
+      "id": 10,
+      "name": "Mini chebureks with beef and sour cream sauce",
+      "category": "appetizers"
+      "image_url": ""
+      "description": "description"
+      "outlet": 190
+      "price": 80
+    },
+    {
+      "id": 11,
+      "name": "Khachapuri with cheese",
+      "category": "appetizers"
+      "image_url": ""
+      "description": "description"
+      "outlet": 200
+      "price": 75
+    },
+    {
+      "id": 23,
+      "name": "Salad with shrimps and avocado",
+      "category": "salads"
+      "image_url": ""
+      "description": "description"
+      "outlet": 280
+      "price": 130
+    },
+    {
+      "id": 24,
+      "name": "Salad with salmon and zucchini",
+      "category": "salads"
+      "image_url": ""
+      "description": "description"
+      "outlet": 200
+      "price": 130
+    },
+    {
+      "id": 33,
+      "name": "Sour cream cake with cream cheese and berries",
+      "category": "deserts"
+      "image_url": ""
+      "description": "description"
+      "outlet": 230
+      "price": 88
+    },
+    {
+      "id": 34,
+      "name": "“Buld Milk“ cake",
+      "category": "deserts"
+      "image_url": ""
+      "description": "description"
+      "outlet": 210
+      "price": 88
+    },
+    {
+      "id": 44,
+      "name": "Soup Ramen",
+      "category": "soups"
+      "image_url": ""
+      "description": "description"
+      "outlet": 600
+      "price": 130
+    },
+    {
+      "id": 45,
+      "name": "Buoyabes",
+      "category": "soups"
+      "image_url": ""
+      "description": "description"
+      "outlet": 450
+      "price": 170
+    },
+    {
+      "id": 50,
+      "name": "Toasts",
+      "category": "bread"
+      "image_url": ""
+      "description": "description"
+      "outlet": 50
+      "price": 20
+    },
+    {
+      "id": 51,
+      "name": "Brown bread",
+      "category": "bread"
+      "image_url": ""
+      "description": "description"
+      "outlet": 100
+      "price": 15
+    },
+    {
+      "id": 53,
+      "name": "BBQ pork ribs with young potatoes and lightly salted cucumber",
+      "category": "main_course"
+      "image_url": ""
+      "description": "description"
+      "outlet": 400
+      "price": 180
+    },
+    {
+      "id": 54,
+      "name": "Beef cheeks on orsotto with carrot pumpkin sause and Blue cheese",
+      "category": "main_course"
+      "image_url": ""
+      "description": "description"
+      "outlet": 400
+      "price": 175
+    },
+    {
+      "id": 67,
+      "name": "Pasta with shrimps and vegetables",
+      "category": "pasta_and_risotto"
+      "image_url": ""
+      "description": "description"
+      "outlet": 300
+      "price": 130
+    },
+    {
+      "id": 68,
+      "name": "Dumplings with duck meat",
+      "category": "pasta_and_risotto"
+      "image_url": ""
+      "description": "description"
+      "outlet": 300
+      "price": 115
+    },
+    {
+      "id": 72,
+      "name": "Steak Ribeye XL",
+      "category": "grill"
+      "image_url": ""
+      "description": "description"
+      "outlet": 300
+      "price": 130
+    },
+    {
+      "id": 73,
+      "name": "Steak Ribeye XXL",
+      "category": "soups"
+      "image_url": ""
+      "description": "description"
+      "outlet": 400
+      "price": 150
     }
   ]
 }
