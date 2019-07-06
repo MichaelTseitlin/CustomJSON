@@ -66,119 +66,119 @@
     {
       "id": 24,
       "name": "Salad with salmon and zucchini",
-      "category": "salads"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 200
-      "price": 130
+      "category": "salads",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 200,
+      "price": 130,
     },
     {
       "id": 33,
       "name": "Sour cream cake with cream cheese and berries",
-      "category": "deserts"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 230
-      "price": 88
+      "category": "deserts",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 230,
+      "price": 88,
     },
     {
       "id": 34,
       "name": "“Buld Milk“ cake",
-      "category": "deserts"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 210
-      "price": 88
+      "category": "deserts",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 210,
+      "price": 88,
     },
     {
       "id": 44,
       "name": "Soup Ramen",
-      "category": "soups"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 600
-      "price": 130
+      "category": "soups",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 600,
+      "price": 130,
     },
     {
       "id": 45,
       "name": "Buoyabes",
-      "category": "soups"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 450
-      "price": 170
+      "category": "soups",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 450,
+      "price": 170,
     },
     {
       "id": 50,
       "name": "Toasts",
-      "category": "bread"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 50
-      "price": 20
+      "category": "bread",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 50,
+      "price": 20,
     },
     {
       "id": 51,
       "name": "Brown bread",
-      "category": "bread"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 100
-      "price": 15
+      "category": "bread",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 100,
+      "price": 15,
     },
     {
       "id": 53,
       "name": "BBQ pork ribs with young potatoes and lightly salted cucumber",
-      "category": "main_course"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 400
-      "price": 180
+      "category": "main_course",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 400,
+      "price": 180,
     },
     {
       "id": 54,
       "name": "Beef cheeks on orsotto with carrot pumpkin sause and Blue cheese",
-      "category": "main_course"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 400
-      "price": 175
+      "category": "main_course",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 400,
+      "price": 175,
     },
     {
       "id": 67,
       "name": "Pasta with shrimps and vegetables",
-      "category": "pasta_and_risotto"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 300
-      "price": 130
+      "category": "pasta_and_risotto",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 300,
+      "price": 130,
     },
     {
       "id": 68,
       "name": "Dumplings with duck meat",
-      "category": "pasta_and_risotto"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 300
-      "price": 115
+      "category": "pasta_and_risotto",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 300,
+      "price": 115,
     },
     {
       "id": 72,
       "name": "Steak Ribeye XL",
-      "category": "grill"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 300
-      "price": 130
+      "category": "grill",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 300,
+      "price": 130,
     },
     {
       "id": 73,
       "name": "Steak Ribeye XXL",
-      "category": "soups"
-      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg"
-      "description": "description"
-      "outlet": 400
-      "price": 150
+      "category": "soups",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
+      "description": "description",
+      "outlet": 400,
+      "price": 150,
     }
   ]
 }
