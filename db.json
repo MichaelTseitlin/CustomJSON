@@ -254,33 +254,6 @@
       "price": 170
     },
     {
-      "id": 44,
-      "name": "Corn cream-soup with shrimps",
-      "category": "soups",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 300,
-      "price": 80
-    },
-    {
-      "id": 45,
-      "name": "Soup with rabbit meat balls, mint and vegetables",
-      "category": "soups",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 300,
-      "price": 70
-    },
-    {
-      "id": 46,
-      "name": "Eggplant cream soup with parmesan cheese",
-      "category": "soups",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 300,
-      "price": 67
-    },
-    {
       "id": 47,
       "name": "Borscht with veal, sour cream, bacon and garlic bread",
       "category": "soups",
