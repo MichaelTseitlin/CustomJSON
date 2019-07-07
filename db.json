@@ -75,7 +75,7 @@
     {
       "id": 33,
       "name": "Sour cream cake with cream cheese and berries",
-      "category": "deserts",
+      "category": "desserts",
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 230,
@@ -84,7 +84,7 @@
     {
       "id": 34,
       "name": "“Buld Milk“ cake",
-      "category": "deserts",
+      "category": "desserts",
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 210,
