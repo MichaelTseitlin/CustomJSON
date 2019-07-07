@@ -144,51 +144,7 @@
       "outlet": 300,
       "price": 140
     },
-    {
-      "id": 17,
-      "name": "Fresh vegetables and green mix",
-      "category": "appetizers",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 300,
-      "price": 82
-    },
-    {
-      "id": 18,
-      "name": "Cheese platter",
-      "category": "appetizers",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 300,
-      "price": 140
-    },
-    {
-      "id": 19,
-      "name": "Mussels in a creammy sauce",
-      "category": "appetizers",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 300,
-      "price": 120
-    },
-    {
-      "id": 20,
-      "name": "Assorted pickles",
-      "category": "appetizers",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 250,
-      "price": 77
-    },
-    {
-      "id": 21,
-      "name": "Herring with onions",
-      "category": "appetizers",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 250,
-      "price": 60
-    },
+    
     {
       "id": 22,
       "name": "Salad with shrimps and avocado",
