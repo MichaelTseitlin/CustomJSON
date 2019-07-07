@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "Omelette with shrips",
+      "name": "Omlette with shrips",
       "category": "breakfast",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
       "description": "description",
@@ -19,25 +19,7 @@
       "price": 87
     },
     {
-      "id": 3,
-      "name": "Scrambled eggs / Omelette with bacon, fresh vegetables and toasts",
-      "category": "breakfast",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 250,
-      "price": 60
-    },
-    {
-      "id": 4,
-      "name": "Syrniki",
-      "category": "breakfast",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 220,
-      "price": 74
-    },
-    {
-      "id": 5,
+      "id": 6,
       "name": "Burger with shrimps",
       "category": "burger",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
@@ -46,7 +28,7 @@
       "price": 115
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Turkey burger",
       "category": "burger",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
@@ -55,25 +37,7 @@
       "price": 115
     },
     {
-      "id": 7,
-      "name": "Burger with beef",
-      "category": "burger",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 450,
-      "price": 115
-    },
-    {
-      "id": 8,
-      "name": "Pulled Pork Burger",
-      "category": "burger",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 450,
-      "price": 115
-    },
-    {
-      "id": 9,
+      "id": 10,
       "name": "Mini chebureks with beef and sour cream sauce",
       "category": "appetizers",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
@@ -82,7 +46,7 @@
       "price": 80
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Khachapuri with cheese",
       "category": "appetizers",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
@@ -91,34 +55,7 @@
       "price": 75
     },
     {
-      "id": 11,
-      "name": "Chicken pate with toasts",
-      "category": "appetizers",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 160,
-      "price": 50
-    },
-    {
-      "id": 12,
-      "name": "Salmon Carpaccio",
-      "category": "appetizers",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 120,
-      "price": 100
-    },
-    {
-      "id": 13,
-      "name": "Beef Carpaccio",
-      "category": "appetizers",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 130,
-      "price": 80
-    },
-    {
-      "id": 22,
+      "id": 23,
       "name": "Salad with shrimps and avocado",
       "category": "salads",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
@@ -127,7 +64,7 @@
       "price": 130
     },
     {
-      "id": 23,
+      "id": 24,
       "name": "Salad with salmon and zucchini",
       "category": "salads",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
@@ -136,25 +73,16 @@
       "price": 130
     },
     {
-      "id": 24,
-      "name": "Caesar-burger",
-      "category": "salads",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 350,
-      "price": 120
-    },
-    {
-      "id": 25,
-      "name": "Panzanella salad with salmon",
-      "category": "salads",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 550,
-      "price": 155
-    },
-    {
       "id": 33,
+      "name": "Sour cream cake with cream cheese and berries",
+      "category": "desserts",
+      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
+      "description": "description",
+      "outlet": 230,
+      "price": 88
+    },
+    {
+      "id": 34,
       "name": "“Buld Milk“ cake",
       "category": "desserts",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
@@ -163,25 +91,7 @@
       "price": 88
     },
     {
-      "id": 34,
-      "name": "Honey cake with banana and roastnuts",
-      "category": "desserts",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 200,
-      "price": 88
-    },
-    {
-      "id": 35,
-      "name": "“Guinness“ cake",
-      "category": "desserts",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 200,
-      "price": 103
-    },
-    {
-      "id": 42,
+      "id": 44,
       "name": "Soup Ramen",
       "category": "soups",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
@@ -190,7 +100,7 @@
       "price": 130
     },
     {
-      "id": 43,
+      "id": 45,
       "name": "Buoyabes",
       "category": "soups",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
@@ -199,16 +109,7 @@
       "price": 170
     },
     {
-      "id": 47,
-      "name": "Borscht with veal, sour cream, bacon and garlic bread",
-      "category": "soups",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 500,
-      "price": 73
-    },
-    {
-      "id": 48,
+      "id": 50,
       "name": "Toasts",
       "category": "bread",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
@@ -217,21 +118,12 @@
       "price": 20
     },
     {
-      "id": 49,
+      "id": 51,
       "name": "Brown bread",
       "category": "bread",
       "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
       "description": "description",
       "outlet": 100,
-      "price": 15
-    },
-    {
-      "id": 50,
-      "name": "Hot baguette with garlic butter",
-      "category": "bread",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 90,
       "price": 15
     },
     {
