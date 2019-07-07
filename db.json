@@ -129,7 +129,7 @@
     {
       "id": 53,
       "name": "BBQ pork ribs with young potatoes and lightly salted cucumber",
-      "category": "main_course",
+      "category": "main course",
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 400,
@@ -138,7 +138,7 @@
     {
       "id": 54,
       "name": "Beef cheeks on orsotto with carrot pumpkin sause and Blue cheese",
-      "category": "main_course",
+      "category": "main course",
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 400,
@@ -147,7 +147,7 @@
     {
       "id": 67,
       "name": "Pasta with shrimps and vegetables",
-      "category": "pasta_and_risotto",
+      "category": "pasta and risotto",
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 300,
@@ -156,7 +156,7 @@
     {
       "id": 68,
       "name": "Dumplings with duck meat",
-      "category": "pasta_and_risotto",
+      "category": "pasta and risotto",
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 300,
@@ -174,7 +174,7 @@
     {
       "id": 73,
       "name": "Steak Ribeye XXL",
-      "category": "soups",
+      "category": "grill",
       "image_url": "https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg",
       "description": "description",
       "outlet": 400,
