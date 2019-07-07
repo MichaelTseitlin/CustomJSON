@@ -118,34 +118,6 @@
       "price": 80
     },
     {
-      "id": 14,
-      "name": "Buffalo chicken wings",
-      "category": "appetizers",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 130,
-      "price": 80
-    },
-    {
-      "id": 15,
-      "name": "Waffles with cheese mousse and lightly salted salmon",
-      "category": "appetizers",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 200,
-      "price": 97
-    },
-    {
-      "id": 16,
-      "name": "Cold cuts",
-      "category": "appetizers",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 300,
-      "price": 140
-    },
-    
-    {
       "id": 22,
       "name": "Salad with shrimps and avocado",
       "category": "salads",
