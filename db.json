@@ -325,51 +325,6 @@
       "price": 70
     },
     {
-      "id": 37,
-      "name": "Napoleon cake",
-      "category": "desserts",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 250,
-      "price": 68
-    },
-    {
-      "id": 38,
-      "name": "Strniki with sabayon sause",
-      "category": "desserts",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 220,
-      "price": 90
-    },
-    {
-      "id": 39,
-      "name": "Cheesecake “New York“",
-      "category": "desserts",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 125,
-      "price": 65
-    },
-    {
-      "id": 40,
-      "name": "Tiramisu",
-      "category": "desserts",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 180,
-      "price": 72
-    },
-    {
-      "id": 41,
-      "name": "Cold strawberry cake with mousse",
-      "category": "desserts",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 140,
-      "price": 70
-    },
-    {
       "id": 42,
       "name": "Soup Ramen",
       "category": "soups",
