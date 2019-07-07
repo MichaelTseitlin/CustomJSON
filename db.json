@@ -191,51 +191,6 @@
       "price": 130
     },
     {
-      "id": 27,
-      "name": "Salad with tuna",
-      "category": "salads",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 280,
-      "price": 165
-    },
-    {
-      "id": 28,
-      "name": "Spring salad with farmer cheese burrat, cherry tomatoes and pesto sauce",
-      "category": "salads",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 250,
-      "price": 155
-    },
-    {
-      "id": 29,
-      "name": "Vegetable salad with sun-dried tomatoes and flax seeds",
-      "category": "salads",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 300,
-      "price": 90
-    },
-    {
-      "id": 30,
-      "name": "Salad with peaches and Khalumi Cheese",
-      "category": "salads",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 280,
-      "price": 120
-    },
-    {
-      "id": 31,
-      "name": "Salad with mozzarella, tomatoes and avocado",
-      "category": "salads",
-      "image_url": "https://img.1kr.ua/place_files/483e80d4/5125b195/241284_488513c36deb2d7a8b6e28f03a7a65941.jpg",
-      "description": "description",
-      "outlet": 280,
-      "price": 130
-    },
-    {
       "id": 32,
       "name": "Sour cream cake with cream cheese and berries",
       "category": "desserts",
